@@ -171,13 +171,6 @@ DB_NAME=
 
 JWT_SECRET=
 ```
-# Demo Credentials
-
-## Staff Account seeded
-
-| Email | Password |
-|--------|----------|
-| admin@gmail.com | Admin@123 |
 
 ---
 # Database Schema

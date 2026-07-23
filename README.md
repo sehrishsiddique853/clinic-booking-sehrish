@@ -79,8 +79,8 @@ Frontend--->axios---->express.js---->route matching---->middleware---->controlle
 ## 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd hospital-appointment-system
+git clone https://github.com/sehrishsiddique853/clinic-booking-sehrish.git
+cd clinic-booking-sehrish
 ```
 
 ---
@@ -171,6 +171,13 @@ DB_NAME=
 
 JWT_SECRET=
 ```
+# Demo Credentials
+
+## Staff Account seeded
+
+| Email | Password |
+|--------|----------|
+| admin@gmail.com | Admin@123 |
 
 ---
 # Database Schema

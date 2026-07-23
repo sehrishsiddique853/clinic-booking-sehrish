@@ -1,2 +1,0 @@
-users-> staff(seed),pateint
-registeration,login ,jwt ,authorization

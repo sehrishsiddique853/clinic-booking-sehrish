@@ -329,7 +329,7 @@ Hashes passwords before storing them in the database.
 This project is intentionally minimal and has a few limitations:
 
 - Logout implementation
-- AI recommendation
+- AI recommendation implementation on frontend
 - geting doctor by searching
 
 ---

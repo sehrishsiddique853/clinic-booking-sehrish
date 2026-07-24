@@ -68,4 +68,12 @@ I separated **routes** from **controllers** to follow the separation of concerns
 
 This structure improves readability and makes future maintenance easier.
 
+
+---
+
+## 7. Use of Gemini API
+
+I used gemini API as it is cost effective and even being simple fullfills the task effeciently.Its official Node.js SDK also made backend integration simple.
+
+
 ---
